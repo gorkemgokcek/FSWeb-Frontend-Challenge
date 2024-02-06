@@ -14,8 +14,8 @@ const newLang = localStorage.getItem("lang")
 : "tr";
 
 const resources= {
-  tr: fakeData.leangue.tr,
-  en: fakeData.leangue.en
+  tr: fakeData.language.tr,
+  en: fakeData.language.en
 }
 
 i18n
