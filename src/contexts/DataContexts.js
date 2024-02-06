@@ -1,6 +1,5 @@
-import {createContext, useState} from "react";
+import {createContext, useState} from "react"
 import { fakeData } from "../data/fakeData";
-
 
 export const DataContext=createContext();
 
