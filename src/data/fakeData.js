@@ -4,7 +4,7 @@ export const fakeData = {
     birthDate: "10.01.1999",
     school: "HacettepeUni",
     rol: "Frontend",
-    headerImg:"images/hero-right12.jpg",
+    headerImg:"images/yazilimci.jpg",
     profile:{
       img:"images/image2.jpg",
       detail1:"Loremipsum, dolor sit  consectetur adipisicing elit. Veniamaut, odit laborum aliquam voluptatum nisi mollitia.",
