@@ -1,0 +1,19 @@
+.lightHeader{
+    background: linear-gradient(
+        to right,
+        #564b99
+        #564b99 70%,
+        #bfdd88 30%,
+        #bfdd88
+    );
+}
+
+.darkHeader{
+    background: linear-gradient(
+        to right,
+        #171043,
+        #171043 70%,
+        #1A210B 30%,
+        #1A210B
+    );
+}
