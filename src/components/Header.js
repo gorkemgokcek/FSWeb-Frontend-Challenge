@@ -109,7 +109,7 @@ const Header = () => {
             <p className=" w-[90%] text-[#CBF281] font-[Inter] font-bold leading-[3.7125rem] text-[3.375rem] max-[640px]:text-[2.3rem] max-[770px]:text-white ">
               {t("headerTitle")}
             </p>
-            <p className="text-[#FFFFFF] font-[Inter] text-[1.5rem] ">
+            <p className="text-[#FFFFFF] font-[Inter] text-[2.5rem] ">
               {t("headerDetail")}
             </p>
             <div className=" flex items-center gap-3">
