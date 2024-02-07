@@ -1,5 +1,5 @@
 export const fakeData = {
-    name: "Görkem",
+    name: "Görkem Gökcek",
     city: "Ankara",
     birthDate: "10.01.1999",
     school: "HacettepeUni",
