@@ -20,7 +20,7 @@ export const fakeData = {
           headerDetail:
             "...mükemmel kullanıcı deneyimlerine sahip, sağlam ve ölçeklenebilir ön uç ürünleri oluşturmayı seven.",
           skills: "Yetenekler",
-          profile: "",
+          profile: "Profile",
           basicInfo: "Temel Bilgiler",
           dateOfBirth: "Doğum Tarihi",
           cityOfResidence: "İkamet Şehri",
@@ -41,7 +41,7 @@ export const fakeData = {
           headerDetail:
             "...who likes to craft solid and scalable frontend products with great user experiences.",
           skills: "Skills",
-          profile: "",
+          profile: "Profile",
           basicInfor: "Basic Information",
           dateOfBirth: "Date of Birth",
           cityOfResidence: " City of Residence",
