@@ -3,7 +3,7 @@ export const fakeData = {
     city: "Ankara",
     birthDate: "10.01.1999",
     school: "HacettepeUni",
-    rol: "Frontend",
+    rol: "Frontend, UI",
     headerImg:"images/yazilimci.jpg",
     profile:{
       img:"images/image2.jpg",
