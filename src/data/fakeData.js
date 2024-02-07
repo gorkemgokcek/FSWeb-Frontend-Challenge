@@ -1,5 +1,5 @@
 export const fakeData = {
-    name: "Görkem Zeki Gökcek",
+    name: "Görkem",
     city: "Ankara",
     birthDate: "10.01.1999",
     school: "HacettepeUni",
@@ -63,7 +63,7 @@ export const fakeData = {
           "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
       },
       {
-        img: "images/pizza.png",
+        img: "images/Rectangle31.jpg",
         title: "Journey",
         detail:
           "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
