@@ -44,7 +44,7 @@ const Header = () => {
   return (
     <div
       className={
-        darkData === "dark" ? "darkHeader flex" : "lightHeader flex w "
+        darkData === "dark" ? "lightHeader flex" : "lightHeader flex w "
       }
     >
       <div className=" flex flex-col items-center justify-start gap-10 ">

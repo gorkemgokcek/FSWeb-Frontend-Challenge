@@ -11,6 +11,7 @@ import { useTranslation } from "react-i18next"
 const Footer = () => {
   const {t}=useTranslation();
   const {val}=useLocalStorage()
+  //console.log("val", val);
   return (
     <div className="flex items-center justify-center py-[5.25rem] dark:bg-[#252128]">
       <div className="flex flex-col gap-[1.5rem] items-center">

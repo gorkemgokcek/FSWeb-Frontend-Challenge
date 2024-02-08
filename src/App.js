@@ -19,11 +19,11 @@ function App() {
   
   
    useEffect(() => {
-     //  axios.post("https://reqres.in/api/workintech",fakeData)
-     //  .then((res)=>{
-     //   console.log("data",res.data);
-     //   setData(res.data);
-     //  })
+    //  axios.post("https://reqres.in/api/workintech",fakeData)
+    //  .then((res)=>{
+    //   console.log("data",res.data);
+    //   setData(res.data);
+    //  })
      dogReg({
       regType: REQ_TYPE.POST,
        endPoint: "workintech",
